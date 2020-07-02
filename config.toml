@@ -5,3 +5,8 @@ theme = "Blackburn"
 author = "Y. Hamaguchi"
 # Shown in the side menu
 copyright = "&copy; 2020. All rights reserved."
+publishDir="docs"
+
+[indexes]
+  tag = "startup,Julia"
+  topic = "スタートアップ,Juliaに関わる内容を書きます"
