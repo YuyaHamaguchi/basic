@@ -81,10 +81,10 @@
     
     <li class="pure-menu-item">
       <a class="pure-menu-link" href='https://yuyahamaguchi.github.io/basic/index.xml'><i
-      <!--<a class="pure-menu-link" href='/basic/index.xml'><i -->
           class="fas fa-rss"></i>RSS</a>
     </li>
     
+      <!--<a class="pure-menu-link" href='/basic/index.xml'><i <!-->
 
     
 
