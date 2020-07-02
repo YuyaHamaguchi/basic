@@ -1,4 +1,7 @@
 baseURL = "https://yuyahamaguchi.github.io/base/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Yuh's note."
 theme = "Blackburn"
+author = "Y. Hamaguchi"
+# Shown in the side menu
+copyright = "&copy; 2020. All rights reserved."
