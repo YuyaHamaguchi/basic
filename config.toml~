@@ -5,6 +5,8 @@ theme = "Blackburn"
 author = "Y. Hamaguchi"
 # Shown in the side menu
 copyright = "&copy; 2020. All rights reserved."
+canonifyurls = true
+paginate = 10
 publishDir="docs"
 
 [indexes]
