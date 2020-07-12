@@ -1,9 +1,0 @@
----
-title: "Contact"
-date: 2020-07-12T21:23:50+09:00
-draft: true
----
-
-## Contact via
-
---yuya_h[AT]aori.u-tokyo.ac.jp 
