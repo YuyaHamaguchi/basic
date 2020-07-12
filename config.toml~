@@ -62,9 +62,9 @@ publishDir="docs"
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
-  twitter = "*"
-  facebook = "*"
-  instagram = "*"
+#  twitter = "*"
+#  facebook = "*"
+#  instagram = "*"
   github = "YuyaHamaguchi"
-  stackoverflow = "*"
-  linkedin = "*"
+#  stackoverflow = "*"
+#  linkedin = "*"
