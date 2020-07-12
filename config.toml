@@ -1,4 +1,4 @@
-baseURL = "https://yuyahamaguchi.github.io/yuhs-note/"
+baseURL = "https://yuyahamaguchi.github.io/basic/"
 languageCode = "ja-jp"
 title = "Yuh's note."
 theme = "Blackburn"
