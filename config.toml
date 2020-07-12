@@ -1,7 +1,7 @@
 baseURL = "https://yuyahamaguchi.github.io/basic/"
 languageCode = "en-us"
 title = "Yuh's note."
-#theme = "Blackburn"
+theme = "Blackburn"
 author = "Y. Hamaguchi"
 # Shown in the side menu
 copyright = "&copy; 2020. All rights reserved."
