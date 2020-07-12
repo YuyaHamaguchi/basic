@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 12 Jul 2020 22:56:54 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 00:16:52 +0900</lastBuildDate>
     
 	<atom:link href="https://yuyahamaguchi.github.io/basic/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Practice</title>
+      <link>https://yuyahamaguchi.github.io/basic/post/202007130016/</link>
+      <pubDate>Mon, 13 Jul 2020 00:16:52 +0900</pubDate>
+      
+      <guid>https://yuyahamaguchi.github.io/basic/post/202007130016/</guid>
+      <description>Markdown </description>
+    </item>
     
     <item>
       <title>My Fifth Post</title>
