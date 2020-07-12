@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yuyahamaguchi.github.io/basic/post/my-fifth-post/</loc>
+    <lastmod>2020-07-12T22:56:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuyahamaguchi.github.io/basic/post/</loc>
+    <lastmod>2020-07-12T22:56:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yuyahamaguchi.github.io/basic/</loc>
+    <lastmod>2020-07-12T22:56:54+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yuyahamaguchi.github.io/basic/posts/</loc>
     <lastmod>2020-07-12T22:50:24+09:00</lastmod>
   </url>
@@ -13,17 +28,7 @@
   </url>
   
   <url>
-    <loc>https://yuyahamaguchi.github.io/basic/</loc>
-    <lastmod>2020-07-12T22:50:24+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yuyahamaguchi.github.io/basic/post/fifth-post/</loc>
-    <lastmod>2020-07-12T22:50:15+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuyahamaguchi.github.io/basic/post/</loc>
     <lastmod>2020-07-12T22:50:15+09:00</lastmod>
   </url>
   
