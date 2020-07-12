@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuh&#39;s note.</title>
-    <link>https://yuyahamaguchi.github.io/basic/</link>
-    <description>Recent content on Yuh&#39;s note.</description>
+    <title>Posts on Yuh&#39;s note.</title>
+    <link>https://yuyahamaguchi.github.io/basic/posts/</link>
+    <description>Recent content in Posts on Yuh&#39;s note.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright>
     <lastBuildDate>Sun, 12 Jul 2020 17:53:51 +0900</lastBuildDate>
     
-	<atom:link href="https://yuyahamaguchi.github.io/basic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yuyahamaguchi.github.io/basic/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,24 +19,6 @@
       
       <guid>https://yuyahamaguchi.github.io/basic/posts/my-forth-post/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>My Third Post</title>
-      <link>https://yuyahamaguchi.github.io/basic/post/my-third-post/</link>
-      <pubDate>Sun, 12 Jul 2020 17:43:15 +0900</pubDate>
-      
-      <guid>https://yuyahamaguchi.github.io/basic/post/my-third-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My Second Post</title>
-      <link>https://yuyahamaguchi.github.io/basic/post/my-second-post/</link>
-      <pubDate>Thu, 02 Jul 2020 23:33:48 +0900</pubDate>
-      
-      <guid>https://yuyahamaguchi.github.io/basic/post/my-second-post/</guid>
-      <description>aaaa</description>
     </item>
     
     <item>
