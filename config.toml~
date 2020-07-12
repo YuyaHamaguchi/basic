@@ -1,7 +1,7 @@
 baseURL = "https://yuyahamaguchi.github.io/basic/"
 languageCode = "en-us"
 title = "Yuh's note."
-theme = "Blackburn"
+#theme = "Blackburn"
 author = "Y. Hamaguchi"
 # Shown in the side menu
 copyright = "&copy; 2020. All rights reserved."
@@ -16,9 +16,9 @@ publishDir="docs"
 [params]
   # Shown in the home page
   subtitle = "気ままに書きます。"
-  brand = "Blackburn"
+  brand = "Yuh's note."
   googleAnalytics = "UA-172422146-1"
-  disqus = "Your Disqus shortname"
+  disqus = "yuhs-note"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   highlightjs_extra_languages = ["yaml"]
