@@ -1,11 +1,11 @@
 ---
 title: "About"
-date: 2020-07-12T18:46:03+00:00
-draft: false
+date: 2020-07-12T21:06:37+09:00
+draft: true
 ---
 
 ## About me
 
 - 氏名 : Yuh
-- 学生。気象学を専攻。
+- 学生。気象学を専攻。大学院生。
 - http://www.aori.u-tokyo.ac.jp

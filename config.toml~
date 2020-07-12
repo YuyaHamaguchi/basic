@@ -1,5 +1,5 @@
 baseURL = "https://yuyahamaguchi.github.io/basic/"
-languageCode = "ja-jp"
+languageCode = "en-us"
 title = "Yuh's note."
 theme = "Blackburn"
 author = "Y. Hamaguchi"
@@ -18,7 +18,7 @@ publishDir="docs"
   subtitle = "気ままに書きます。"
   brand = "Blackburn"
   googleAnalytics = "UA-172422146-1"
-  #disqus = "Your Disqus shortname"
+  disqus = "Your Disqus shortname"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   highlightjs_extra_languages = ["yaml"]
@@ -53,9 +53,18 @@ publishDir="docs"
     weight = 3
     identifier = "about"
     url = "/about/"
-  #[[menu.main]]
-  #  name = "Contact"
-  #  pre = "<i class='fa fa-phone fa-fw'></i>"
-  #  weight = 4
-  #  identifier = "contact"
-  #  url = "/contact/"
+  [[menu.main]]
+    name = "Contact"
+    pre = "<i class='fa fa-phone fa-fw'></i>"
+    weight = 4
+    identifier = "contact"
+    url = "/contact/"
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  twitter = "*"
+  facebook = "*"
+  instagram = "*"
+  github = "YuyaHamaguchi"
+  stackoverflow = "*"
+  linkedin = "*"

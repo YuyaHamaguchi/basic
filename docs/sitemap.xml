@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yuyahamaguchi.github.io/basic/about/</loc>
+    <lastmod>2020-07-12T21:06:37+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yuyahamaguchi.github.io/basic/posts/my-forth-post/</loc>
     <lastmod>2020-07-12T17:53:51+09:00</lastmod>
   </url>

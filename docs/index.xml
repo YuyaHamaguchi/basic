@@ -5,12 +5,21 @@
     <link>https://yuyahamaguchi.github.io/basic/</link>
     <description>Recent content on Yuh&#39;s note.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
+    <language>en-us</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright>
     <lastBuildDate>Sun, 12 Jul 2020 17:53:51 +0900</lastBuildDate>
     
 	<atom:link href="https://yuyahamaguchi.github.io/basic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://yuyahamaguchi.github.io/basic/about/</link>
+      <pubDate>Sun, 12 Jul 2020 21:06:37 +0900</pubDate>
+      
+      <guid>https://yuyahamaguchi.github.io/basic/about/</guid>
+      <description>About me  氏名 : Yuh 学生。気象学を専攻。大学院生。 http://www.aori.u-tokyo.ac.jp  </description>
+    </item>
     
     <item>
       <title>My Forth Post</title>
