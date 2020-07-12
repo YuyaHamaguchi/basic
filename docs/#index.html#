@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="generator" content="Hugo 0.73.0" />
 
-  <title>About test &middot; Yuh&#39;s note.</title>
+  <title>Yuh&#39;s note.</title>
 
     
 
@@ -44,6 +44,9 @@
   <link rel="canonical" href="" />
 
  
+  
+  <link rel="alternate" type="application/rss+xml" title="Yuh&#39;s note."
+    href='https://yuyahamaguchi.github.io/basic/index.xml' />
   
 
   
@@ -119,7 +122,10 @@
   <ul class="pure-menu-list">
 
     
-
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href='https://yuyahamaguchi.github.io/basic/index.xml'><i
+          class="fas fa-rss"></i>RSS</a>
+    </li>
     
 
     
@@ -179,6 +185,8 @@
     
 
     
+
+     
 
     
 
@@ -213,16 +221,73 @@
 
 
 <div class="header">
-  <h1>About test</h1>
-  <h2></h2>
+  <h1>Yuh&#39;s note.</h1>
+  <h2>�����ޒ�ޒ�˒�񒤭��ޒ�����</h2>
 </div>
+
 <div class="content">
-  <h2 id="about-me">About me</h2>
-<ul>
-<li>氏名 : Yuh</li>
-<li>学生時代は知能情報工学を専攻。2007年に新卒入社。インターネットユーザーの興味関心情報を膨大なアクセスログから導き出し、最適な広告配信に還元する仕組でDivisio・ProductManager・TechLead・DataScieを兼務し、機械学習によるダイレク改善施策を担当。CPA指標を劇的に向上させた実績を持つ。 4月から新規ビジネスの開発に従事している。2018年3月より。</li>
-<li>https:</li>
-</ul>
+  
+    <article>
+  <header>
+    <h2><a href="https://yuyahamaguchi.github.io/basic/post/my-third-post/">My Third Post</a></h2>
+
+    <div class="post-meta">
+
+  <div>
+    <i class="fa fa-calendar fa-fw"></i>
+    <time>2020 Jul 12, 17:43</time>
+  </div>
+
+  
+
+  
+
+  
+
+</div>
+
+  </header>
+
+  <p>
+  
+  </p>
+
+  
+</article>
+
+  
+    <article>
+  <header>
+    <h2><a href="https://yuyahamaguchi.github.io/basic/post/my-second-post/">My Second Post</a></h2>
+
+    <div class="post-meta">
+
+  <div>
+    <i class="fa fa-calendar fa-fw"></i>
+    <time>2020 Jul 02, 23:33</time>
+  </div>
+
+  
+
+  
+
+  
+
+</div>
+
+  </header>
+
+  <p>
+  aaaa
+  </p>
+
+  
+</article>
+
+  
+
+  
+
 
 </div>
 
