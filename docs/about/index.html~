@@ -213,14 +213,14 @@
 
 
 <div class="header">
-  <h1>About</h1>
+  <h1>About test</h1>
   <h2></h2>
 </div>
 <div class="content">
   <h2 id="about-me">About me</h2>
 <ul>
 <li>氏名 : Yuh</li>
-<li>学生時代は</li>
+<li>学生時代は知能情報工学を専攻。2007年に新卒入社。インターネットユーザーの興味関心情報を膨大なアクセスログから導き出し、最適な広告配信に還元する仕組でDivisio・ProductManager・TechLead・DataScieを兼務し、機械学習によるダイレク改善施策を担当。CPA指標を劇的に向上させた実績を持つ。 4月から新規ビジネスの開発に従事している。2018年3月より。</li>
 <li>https:</li>
 </ul>
 
