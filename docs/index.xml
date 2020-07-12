@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuh&#39;s note.</title>
-    <link>https://yuyahamaguchi.github.io/basic/</link>
+    <link>https://yuyahamaguchi.github.io/yuhs-note/</link>
     <description>Recent content on Yuh&#39;s note.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja-jp</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright>
     <lastBuildDate>Mon, 13 Jul 2020 00:16:52 +0900</lastBuildDate>
     
-	<atom:link href="https://yuyahamaguchi.github.io/basic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yuyahamaguchi.github.io/yuhs-note/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Practice</title>
-      <link>https://yuyahamaguchi.github.io/basic/post/202007130016/</link>
+      <link>https://yuyahamaguchi.github.io/yuhs-note/post/202007130016/</link>
       <pubDate>Mon, 13 Jul 2020 00:16:52 +0900</pubDate>
       
-      <guid>https://yuyahamaguchi.github.io/basic/post/202007130016/</guid>
+      <guid>https://yuyahamaguchi.github.io/yuhs-note/post/202007130016/</guid>
       <description>Markdown </description>
     </item>
     
     <item>
       <title>My Fifth Post</title>
-      <link>https://yuyahamaguchi.github.io/basic/post/my-fifth-post/</link>
+      <link>https://yuyahamaguchi.github.io/yuhs-note/post/my-fifth-post/</link>
       <pubDate>Sun, 12 Jul 2020 22:56:54 +0900</pubDate>
       
-      <guid>https://yuyahamaguchi.github.io/basic/post/my-fifth-post/</guid>
+      <guid>https://yuyahamaguchi.github.io/yuhs-note/post/my-fifth-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fifth Post</title>
-      <link>https://yuyahamaguchi.github.io/basic/post/fifth-post/</link>
+      <link>https://yuyahamaguchi.github.io/yuhs-note/post/fifth-post/</link>
       <pubDate>Sun, 12 Jul 2020 22:50:15 +0900</pubDate>
       
-      <guid>https://yuyahamaguchi.github.io/basic/post/fifth-post/</guid>
+      <guid>https://yuyahamaguchi.github.io/yuhs-note/post/fifth-post/</guid>
       <description>test5</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://yuyahamaguchi.github.io/basic/about/</link>
+      <link>https://yuyahamaguchi.github.io/yuhs-note/about/</link>
       <pubDate>Sun, 12 Jul 2020 22:26:20 +0900</pubDate>
       
-      <guid>https://yuyahamaguchi.github.io/basic/about/</guid>
+      <guid>https://yuyahamaguchi.github.io/yuhs-note/about/</guid>
       <description>About me  氏名 : Yuya Hamaguchi 学生。気象学を専攻。大学院生。 http://www.aori.u-tokyo.ac.jp  </description>
     </item>
     
     <item>
       <title>My Third Post</title>
-      <link>https://yuyahamaguchi.github.io/basic/post/my-third-post/</link>
+      <link>https://yuyahamaguchi.github.io/yuhs-note/post/my-third-post/</link>
       <pubDate>Sun, 12 Jul 2020 17:43:15 +0900</pubDate>
       
-      <guid>https://yuyahamaguchi.github.io/basic/post/my-third-post/</guid>
+      <guid>https://yuyahamaguchi.github.io/yuhs-note/post/my-third-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My Second Post</title>
-      <link>https://yuyahamaguchi.github.io/basic/post/my-second-post/</link>
+      <link>https://yuyahamaguchi.github.io/yuhs-note/post/my-second-post/</link>
       <pubDate>Thu, 02 Jul 2020 23:33:48 +0900</pubDate>
       
-      <guid>https://yuyahamaguchi.github.io/basic/post/my-second-post/</guid>
+      <guid>https://yuyahamaguchi.github.io/yuhs-note/post/my-second-post/</guid>
       <description>aaaa</description>
     </item>
     
