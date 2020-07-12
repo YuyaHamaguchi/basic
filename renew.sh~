@@ -1,0 +1,10 @@
+ 1331  hugo new about.md
+ 1332  em content/about.md 
+ 1333   hugo -t blackburn
+ 1334  hugo -D
+ 1335   hugo -t blackburn
+ 1336  git add -A
+ 1337  git commit -m "arranged About"
+ 1338  git push -u origin master
+ 1339  history | tail
+ 1340  history | tail > renew.sh
