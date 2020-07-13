@@ -18,7 +18,7 @@
       <pubDate>Mon, 13 Jul 2020 22:57:46 +0900</pubDate>
       
       <guid>https://yuyahamaguchi.github.io/basic/post/202007132257/</guid>
-      <description>&lt;h2 id=&#34;categorytag付けの実装&#34;&gt;Category・Tag付けの実装。&lt;/h2&gt;
+      <description>&lt;h4 id=&#34;categorytag付けの実装&#34;&gt;Category・Tag付けの実装。&lt;/h4&gt;
 &lt;p&gt;2日目です。本日はYuh&amp;rsquo;s noteをより見やすくしようと思い、各投稿に対してカテゴリ・タグ付けを行うように設定しました。カテゴリもタグも種類がまだまだ少ないですが、雑多な投稿をしても後々クラスタリングしやすいように、早めの実装です。とはいえ気分屋なので適当なタグ名をその都度つけてしまいそうです。。気をつけよう。&lt;/p&gt;</description>
     </item>
     
@@ -28,8 +28,8 @@
       <pubDate>Mon, 13 Jul 2020 00:16:52 +0900</pubDate>
       
       <guid>https://yuyahamaguchi.github.io/basic/post/202007130016/</guid>
-      <description>&lt;h2 id=&#34;markdown記法&#34;&gt;Markdown記法：&lt;/h2&gt;
-&lt;h4 id=&#34;どうも-記念すべき初投稿になります&#34;&gt;どうも, 記念すべき初投稿になります。&lt;/h4&gt;
+      <description>&lt;h4 id=&#34;markdown記法&#34;&gt;Markdown記法：&lt;/h4&gt;
+&lt;h6 id=&#34;どうも-記念すべき初投稿になります&#34;&gt;どうも, 記念すべき初投稿になります。&lt;/h6&gt;
 &lt;p&gt;もういい歳だし分別をわきまえた投稿というものができるだろうということで,&lt;/p&gt;
 &lt;p&gt;かねてより計画していたホームページの作成に取り掛かりました。&lt;/p&gt;</description>
     </item>
