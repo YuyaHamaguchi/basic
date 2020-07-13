@@ -28,9 +28,8 @@ Webサーバはどこに置こうかな, と考えましたが今時は github �
 では, 夜分遅いので今日はこれにて失礼。まめに投稿しようと思います。
 (コメント機能を持たせたので暇だったらぜひコメントください。登録必要かも。)
  以下、備忘録というかテスト。
- codeの書き方：`` で括れば良い。 echo &amp;quot;Hello world&amp;quot;みたいな。 数式も書けるのかな？   $ds=c_pdT+gdz$
-$dh=c_pdT+gdz+Ldq$
- $\LaTeX$ 同様に書けましたね。手軽。</description>
+ codeの書き方：`` で括れば良い。 echo &amp;quot;Hello world&amp;quot;みたいな。 数式も書けるのかな？  $$ds=c_pdT+gdz$$ $$dh=c_pdT+gdz+Ldq$$
+$\LaTeX$ 同様に書けましたね。手軽 $(\cdot\omega\cdot$</description>
     </item>
     
   </channel>
