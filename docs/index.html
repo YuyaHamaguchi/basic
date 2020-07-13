@@ -39,7 +39,7 @@
 
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
+  
   
   <link rel="canonical" href="" />
 
@@ -251,7 +251,7 @@ Webサーバはどこに置こうかな, と考えましたが今時は github �
 (コメント機能を持たせたので暇だったらぜひコメントください。登録必要かも。)
  以下、備忘録というかテスト。
  codeの書き方：`` で括れば良い。 echo &quot;Hello world&quot;みたいな。 数式も書けるのかな？  $$ds=c_pdT+gdz$$ $$dh=c_pdT+gdz+Ldq$$
-$\LaTeX$ 同様に書けましたね。手軽 $(\cdot\omega\cdot$
+$\LaTeX{}$ 同様に書けましたね。手軽 $(\cdot\omega\cdot$
   </p>
 
   
@@ -287,37 +287,23 @@ $\LaTeX$ 同様に書けましたね。手軽 $(\cdot\omega\cdot$
 
 
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 
-MathJax.Hub.Config({
-        tex2jax: {
-            inlineMath: [['$','$'], ['\\(','\\)']],
-            displayMath: [['$$','$$']],
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ 
+    tex2jax: { inlineMath: [['$','$'], ["\\(","\\)"]] 
+            displayMath: [ ['$$','$$'] ],
             processEscapes: true,
             processEnvironments: true,
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+                        
             TeX: { equationNumbers: { autoNumber: "AMS" },
                 extensions: ["AMSmath.js", "AMSsymbols.js"] }
-        }
-    });
-
-    MathJax.Hub.Queue(function() {
-        
-        
-        
-        var all = MathJax.Hub.getAllJax(), i;
-        for(i = 0; i < all.length; i += 1) {
-            all[i].SourceElement().parentNode.className += ' has-jax';
-        }
-    });
-
-    MathJax.Hub.Config({
-        
-        TeX: { equationNumbers: { autoNumber: "AMS" } }
-    });
-
+	    } 
+  });
 </script>
-
+<script async
+src="//cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<meta http-equiv="X-UA-Compatible" CONTENT="IE=EmulateIE7" />
 <link rel="stylesheet" type="text/css" href="https://yuyahamaguchi.github.io/basic/css//css/mathjax-style.css">
 
 

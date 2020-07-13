@@ -39,7 +39,7 @@
 
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
+  
   
   <link rel="canonical" href="" />
 
@@ -240,37 +240,23 @@
 
 
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 
-MathJax.Hub.Config({
-        tex2jax: {
-            inlineMath: [['$','$'], ['\\(','\\)']],
-            displayMath: [['$$','$$']],
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({ 
+    tex2jax: { inlineMath: [['$','$'], ["\\(","\\)"]] 
+            displayMath: [ ['$$','$$'] ],
             processEscapes: true,
             processEnvironments: true,
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+                        
             TeX: { equationNumbers: { autoNumber: "AMS" },
                 extensions: ["AMSmath.js", "AMSsymbols.js"] }
-        }
-    });
-
-    MathJax.Hub.Queue(function() {
-        
-        
-        
-        var all = MathJax.Hub.getAllJax(), i;
-        for(i = 0; i < all.length; i += 1) {
-            all[i].SourceElement().parentNode.className += ' has-jax';
-        }
-    });
-
-    MathJax.Hub.Config({
-        
-        TeX: { equationNumbers: { autoNumber: "AMS" } }
-    });
-
+	    } 
+  });
 </script>
-
+<script async
+src="//cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<meta http-equiv="X-UA-Compatible" CONTENT="IE=EmulateIE7" />
 <link rel="stylesheet" type="text/css" href="https://yuyahamaguchi.github.io/basic/css//css/mathjax-style.css">
 
 
