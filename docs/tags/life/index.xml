@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yuh&#39;s note.</title>
-    <link>https://yuyahamaguchi.github.io/basic/</link>
-    <description>Recent content on Yuh&#39;s note.</description>
+    <title>life on Yuh&#39;s note.</title>
+    <link>https://yuyahamaguchi.github.io/basic/tags/life/</link>
+    <description>Recent content in life on Yuh&#39;s note.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright>
     <lastBuildDate>Mon, 13 Jul 2020 22:57:46 +0900</lastBuildDate>
     
-	<atom:link href="https://yuyahamaguchi.github.io/basic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yuyahamaguchi.github.io/basic/tags/life/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -42,15 +42,6 @@ Webサーバはどこに置こうかな, と考えましたが今時は github �
  以下、備忘録というかテスト。
  codeの書き方：`` で括れば良い。 echo &amp;quot;Hello world&amp;quot;みたいな。 数式も書けるのかな？  $$ds=c_pdT+gdz$$ $$dh=c_pdT+gdz+Ldq$$
 $\LaTeX{}$ 同様に書けましたね。手軽 $(\cdot\omega\cdot$</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://yuyahamaguchi.github.io/basic/about/</link>
-      <pubDate>Sun, 12 Jul 2020 22:26:20 +0900</pubDate>
-      
-      <guid>https://yuyahamaguchi.github.io/basic/about/</guid>
-      <description>About me  氏名 : Yuya Hamaguchi 学生。気象学を専攻。大学院生。 http://www.aori.u-tokyo.ac.jp  </description>
     </item>
     
   </channel>
