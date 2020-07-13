@@ -28,41 +28,5 @@ Webサーバはどこに置こうかな, と考えましたが今時は github �
 では, 夜分遅いので今日はこれにて失礼。まめに投稿しようと思います。 (コメント機能を持たせたので暇だったらぜひコメントください。登録必要かも。)</description>
     </item>
     
-    <item>
-      <title>My Fifth Post</title>
-      <link>https://yuyahamaguchi.github.io/basic/post/my-fifth-post/</link>
-      <pubDate>Sun, 12 Jul 2020 22:56:54 +0900</pubDate>
-      
-      <guid>https://yuyahamaguchi.github.io/basic/post/my-fifth-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fifth Post</title>
-      <link>https://yuyahamaguchi.github.io/basic/post/fifth-post/</link>
-      <pubDate>Sun, 12 Jul 2020 22:50:15 +0900</pubDate>
-      
-      <guid>https://yuyahamaguchi.github.io/basic/post/fifth-post/</guid>
-      <description>test5</description>
-    </item>
-    
-    <item>
-      <title>My Third Post</title>
-      <link>https://yuyahamaguchi.github.io/basic/post/my-third-post/</link>
-      <pubDate>Sun, 12 Jul 2020 17:43:15 +0900</pubDate>
-      
-      <guid>https://yuyahamaguchi.github.io/basic/post/my-third-post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My Second Post</title>
-      <link>https://yuyahamaguchi.github.io/basic/post/my-second-post/</link>
-      <pubDate>Thu, 02 Jul 2020 23:33:48 +0900</pubDate>
-      
-      <guid>https://yuyahamaguchi.github.io/basic/post/my-second-post/</guid>
-      <description>aaaa</description>
-    </item>
-    
   </channel>
 </rss>
