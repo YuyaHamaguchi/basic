@@ -28,6 +28,7 @@ publishDir="docs"
   # (relative to /static folder)
   #custom_css = ["css/my.css"]
   #custom_js = ["js/my.js"]
+  mathjaxStyle = "mathjax-style.css"
 
   #[params.piwikAnalytics]
   #  siteid = 2
