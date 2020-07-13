@@ -33,7 +33,9 @@ publishDir="docs"
   #[params.piwikAnalytics]
   #  siteid = 2
   #  piwikroot = "//analytics.example.com/"
-
+[taxonomies]
+  category = "categories"  
+  tag = "tags"
 [menu]
   # Shown in the side menu.
   [[menu.main]]
@@ -49,9 +51,15 @@ publishDir="docs"
     identifier = "post"
     url = "/post/"
   [[menu.main]]
+    name = "Categories"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 3
+    identifier = "categories"
+    url = "/categories/"
+  [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
-    weight = 3
+    weight = 4
     identifier = "about"
     url = "/about/"
 #  [[menu.main]]

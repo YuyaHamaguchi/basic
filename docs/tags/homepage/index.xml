@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>homepage on Yuh&#39;s note.</title>
+    <link>https://yuyahamaguchi.github.io/basic/tags/homepage/</link>
+    <description>Recent content in homepage on Yuh&#39;s note.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>&amp;copy; 2020. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 13 Jul 2020 00:16:52 +0900</lastBuildDate>
+    
+	<atom:link href="https://yuyahamaguchi.github.io/basic/tags/homepage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Practice</title>
+      <link>https://yuyahamaguchi.github.io/basic/post/202007130016/</link>
+      <pubDate>Mon, 13 Jul 2020 00:16:52 +0900</pubDate>
+      
+      <guid>https://yuyahamaguchi.github.io/basic/post/202007130016/</guid>
+      <description>Markdown記法： どうも, 記念すべき初投稿になります。 もういい歳だし分別をわきまえた投稿というものができるだろうということで,
+かねてより計画していたホームページの作成に取り掛かりました。
+Webコンテンツに疎いながらも自前でちゃんとした見た目のものを用意しようと思って最初に目をつけたのは, 知人がHP作成に利用していた Hugo テンプレートを利用することでした。特に自分が目をつけたのはBluckburnというテーマです。
+ アカデミアに残るつもりの人間ならアカデミアテーマを使えば？  という思いもしましたが, どうにも自由度が低いように見えてしまいました(あと, 気持ち単調ですよね)。
+Webサーバはどこに置こうかな, と考えましたが今時は github のアカウントを持っていれば github pages で簡単にHPを持てると言う事でしたのでお世話になることにしました。実は github, , , アカウントを取得したはいいものの, バージョン管理の勉強をすること, まめにgit add, commit, push することが面倒でずっと放置していました(半年以上？)。
+この機会に
+ Webコンテンツの作成方法 Markdown記法 githubによるコンテンツの管理体制  などについてしっかりと身に付けることができればいいな, と思います。
+では, 夜分遅いので今日はこれにて失礼。まめに投稿しようと思います。
+(コメント機能を持たせたので暇だったらぜひコメントください。登録必要かも。)
+ 以下、備忘録というかテスト。
+ codeの書き方：`` で括れば良い。 echo &amp;quot;Hello world&amp;quot;みたいな。 数式も書けるのかな？  $$ds=c_pdT+gdz$$ $$dh=c_pdT+gdz+Ldq$$
+$\LaTeX{}$ 同様に書けましたね。手軽 $(\cdot\omega\cdot$</description>
+    </item>
+    
+  </channel>
+</rss>
