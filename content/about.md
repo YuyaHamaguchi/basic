@@ -9,3 +9,5 @@ draft: false
 - 氏名 : Yuya Hamaguchi
 - 学生。気象学を専攻。大学院生。
 - http://www.aori.u-tokyo.ac.jp
+
+{{< figure src="/images/site-image.jpg" >}}
