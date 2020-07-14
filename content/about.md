@@ -10,4 +10,4 @@ draft: false
 - 学生。気象学を専攻。大学院生。
 - http://www.aori.u-tokyo.ac.jp
 
-![私](/images/site-image.jpg)
+![私](/images/site-image.jpeg)
