@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yuyahamaguchi.github.io/basic/</loc>
+    <lastmod>2020-07-13T22:57:46+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://yuyahamaguchi.github.io/basic/categories/</loc>
     <lastmod>2020-07-13T22:57:46+09:00</lastmod>
   </url>
@@ -24,11 +29,6 @@
   
   <url>
     <loc>https://yuyahamaguchi.github.io/basic/tags/</loc>
-    <lastmod>2020-07-13T22:57:46+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuyahamaguchi.github.io/basic/</loc>
     <lastmod>2020-07-13T22:57:46+09:00</lastmod>
   </url>
   
