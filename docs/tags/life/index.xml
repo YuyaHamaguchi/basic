@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 13 Jul 2020 22:57:46 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2020 18:23:45 +0900</lastBuildDate>
     
 	<atom:link href="https://yuyahamaguchi.github.io/basic/tags/life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>白紙化</title>
+      <link>https://yuyahamaguchi.github.io/basic/post/202007141823/</link>
+      <pubDate>Tue, 14 Jul 2020 18:23:45 +0900</pubDate>
+      
+      <guid>https://yuyahamaguchi.github.io/basic/post/202007141823/</guid>
+      <description>&lt;h4 id=&#34;白紙号-取得しました&#34;&gt;白紙号 取得しました。&lt;/h4&gt;
+&lt;p&gt;&amp;hellip; &amp;hellip; &amp;hellip;。&lt;/p&gt;
+&lt;p&gt;こんにちは、まめに投稿すること早3日目。明日を乗り切れば飽き性克服ですね！&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>見やすいHPづくり</title>
@@ -19,7 +30,7 @@
       
       <guid>https://yuyahamaguchi.github.io/basic/post/202007132257/</guid>
       <description>&lt;h4 id=&#34;categorytag付けの実装&#34;&gt;Category・Tag付けの実装。&lt;/h4&gt;
-&lt;p&gt;2日目です。本日はYuh&amp;rsquo;s noteをより見やすくしようと思い、各投稿に対してカテゴリ・タグ付けを行うように設定しました。カテゴリもタグも種類がまだまだ少ないですが、雑多な投稿をしても後々クラスタリングしやすいように、早めの実装です。とはいえ気分屋なので適当なタグ名をその都度つけてしまいそうです。。気をつけよう。&lt;/p&gt;</description>
+&lt;p&gt;2日目です。本日はYuh&amp;rsquo;s noteをより見やすくしようと思い, 各投稿に対してカテゴリ・タグ付けを行うように設定しました。カテゴリもタグも種類がまだまだ少ないですが, 雑多な投稿をしても後々クラスタリングしやすいように, 早めの実装です。とはいえ気分屋なので適当なタグ名をその都度つけてしまいそうです。。気をつけよう。&lt;/p&gt;</description>
     </item>
     
     <item>
