@@ -1,12 +1,10 @@
 ---
-title: "About"
+title: "About Me"
 date: 2020-07-12T22:26:20+09:00
 draft: false
 ---
 
-## About me
-
-##### Yuya Hamaguchi
+### Yuya Hamaguchi
 
 - Affiliation
   - [Atmosphere and Ocean Research Institute](http://www.aori.u-tokyo.ac.jp), The University of Tokyo
@@ -36,7 +34,7 @@ The University of Tokyo](http://www.eps.s.u-tokyo.ac.jp/index-en.html)
 
 - Research Interests
   - Cloud Physics
-  - Statistical physics
+  - Statistical Physics
   - Tropical Meteorology
 
 ![私](/images/site-image.jpeg)
