@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 14 Jul 2020 18:23:45 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 23:56:51 +0900</lastBuildDate>
     
 	<atom:link href="https://yuyahamaguchi.github.io/basic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ひと段落</title>
+      <link>https://yuyahamaguchi.github.io/basic/post/202007152356/</link>
+      <pubDate>Wed, 15 Jul 2020 23:56:51 +0900</pubDate>
+      
+      <guid>https://yuyahamaguchi.github.io/basic/post/202007152356/</guid>
+      <description>&lt;p&gt;####発表日終わりです。&lt;/p&gt;
+&lt;p&gt;おつかれさまです。自分の所属するセッションの発表が終わり、気持ち的にはひと段落を迎えました。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>白紙化</title>
