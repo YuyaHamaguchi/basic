@@ -22,7 +22,7 @@ The University of Tokyo](http://www.eps.s.u-tokyo.ac.jp/index-en.html)
  - Contact
    - Address
         - 5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8568, Japan
-        - Kashiwa Research Complex, Room 310
+        <!--- Kashiwa Research Complex, Room 310-->
    - Email
         - yuya_h[at]aori.u-tokyo.ac.jp
    - Phone
