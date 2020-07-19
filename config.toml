@@ -34,6 +34,11 @@ publishDir="docs"
   #  siteid = 2
   #  piwikroot = "//analytics.example.com/"
 #[taxonomies]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [indexes]
   category = "categories"  
   tag = "tags"

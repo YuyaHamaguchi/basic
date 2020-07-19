@@ -52,11 +52,17 @@ publishDir="docs"
     identifier = "post"
     url = "/post/"
   [[menu.main]]
-    name = "Categories"
+    name = "Tags"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 3
-    identifier = "categories"
-    url = "/categories/"
+    identifier = "tags"
+    url = "/tags/"
+#  [[menu.main]]
+#    name = "Categories"
+#    pre = "<i class='fa fa-list fa-fw'></i>"
+#    weight = 3
+#    identifier = "categories"
+#    url = "/categories/"
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
