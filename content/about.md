@@ -35,6 +35,6 @@ The University of Tokyo](http://www.eps.s.u-tokyo.ac.jp/index-en.html)
 - Research Interests
   - Cloud Physics
   - Statistical Physics
-  - Tropical Meteorology
+  - Tropical Atmosphere
 
 ![私](/images/site-image.jpeg)
