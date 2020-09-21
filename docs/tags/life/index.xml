@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 26 Aug 2020 13:31:56 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2020 23:10:43 +0900</lastBuildDate>
     
 	<atom:link href="https://yuyahamaguchi.github.io/basic/tags/life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>更新頻度</title>
+      <link>https://yuyahamaguchi.github.io/basic/post/202009212310/</link>
+      <pubDate>Mon, 21 Sep 2020 23:10:43 +0900</pubDate>
+      
+      <guid>https://yuyahamaguchi.github.io/basic/post/202009212310/</guid>
+      <description>&lt;h4 id=&#34;三日坊主&#34;&gt;三日坊主&lt;/h4&gt;
+&lt;p&gt;当HPを開設した当初は「毎日更新！」の目標の下、アウトプットおよび文字起こしの訓練ができれば良いな、と思っていたわけですが。お久しぶりになってしまいました。&lt;/p&gt;
+&lt;p&gt;もう来週には中秋の名月です。日に日に日没が早まりますね。&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>GitHub 講習会</title>
@@ -25,7 +36,7 @@
     </item>
     
     <item>
-      <title>よく見る悪夢があります。</title>
+      <title>悪夢</title>
       <link>https://yuyahamaguchi.github.io/basic/post/202007241019/</link>
       <pubDate>Fri, 24 Jul 2020 10:19:23 +0900</pubDate>
       
