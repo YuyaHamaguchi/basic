@@ -7,7 +7,7 @@
   <meta name="description" content="">
   <meta name="generator" content="Hugo 0.73.0" />
 
-  <title>About Me &middot; Yuh&#39;s note.</title>
+  <title>Tags &middot; Yuh&#39;s note.</title>
 
     
 
@@ -44,6 +44,9 @@
   <link rel="canonical" href="" />
 
  
+  
+  <link rel="alternate" type="application/rss+xml" title="Yuh&#39;s note."
+    href='https://yuyahamaguchi.github.io/basic/tags/index.xml' />
   
 
   
@@ -105,6 +108,11 @@
   <div class="pure-menu social">
   <ul class="pure-menu-list">
 
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href='https://yuyahamaguchi.github.io/basic/tags/index.xml'><i
+          class="fas fa-rss"></i>RSS</a>
+    </li>
     
 
     
@@ -204,72 +212,37 @@
 
 
 <div class="header">
-  <h1>About Me</h1>
-  <h2></h2>
+  <h1>Tags</h1>
 </div>
 <div class="content">
-  <h3 id="yuya-hamaguchi">Yuya Hamaguchi</h3>
-<ul>
-<li>
-<p>Affiliation</p>
-<ul>
-<li><a href="http://www.aori.u-tokyo.ac.jp">Atmosphere and Ocean Research Institute</a>, The University of Tokyo
-<ul>
-<li>2nd year master&rsquo;s student of <a href="https://ccsr.aori.u-tokyo.ac.jp/~takayabu/index-j.html">Takayabu Laboratory</a></li>
-</ul>
-</li>
-<li><a href="http://www.eps.s.u-tokyo.ac.jp/index-en.html">Department of Earth and Planetary Science,
-Graduate School of Science,
-The University of Tokyo</a></li>
-</ul>
-</li>
-<li>
-<p>Bio</p>
-<ul>
-<li>東京都立 日比谷高等学校 普通科 修了 (2014.3.)</li>
-<li>B.S. Department of Earth and Planetary Physics, School of Science, The University of Tokyo, (2019.3.)</li>
-<li>A scholarship student of <a href="https://www.ysf.or.jp/englishpage/index.html">Yoshida Scholarship Foundation - Master 21 Program</a> (2019.4-)</li>
-<li>A course member of <a href="https://igpees79.webnode.jp/#">International Graduate Program for Excellence in Earth-Space Science (IGPEES)</a> (2019.10-)</li>
-</ul>
-</li>
-<li>
-<p>Contact</p>
-<ul>
-<li>Address
-<ul>
-<li>5-1-5 Kashiwanoha, Kashiwa, Chiba 277-8568, Japan</li>
-</ul>
-   <!--- Kashiwa Research Complex, Room 310-->
-</li>
-<li>Email
-<ul>
-<li>yuya_h[at]aori.u-tokyo.ac.jp</li>
-</ul>
-</li>
-<li>Phone
-<ul>
-<li>+81-4-7136-4404</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
-<p>Hobbies</p>
-<ul>
-<li>Swimming</li>
-<li>Shogi (Amateur first grade, Japan Shogi Association)</li>
-</ul>
-</li>
-<li>
-<p>Research Interests</p>
-<ul>
-<li>Cloud Physics</li>
-<li>Statistical Physics</li>
-<li>Tropical Atmosphere</li>
-</ul>
-</li>
-</ul>
-<p><img src="https://yuyahamaguchi.github.io/basic/images/site-image.jpeg" alt="私"></p>
+  
+
+  
+  <ul>
+    
+    
+    
+    <li><a href="conference">conference</a> 2</li>
+    
+    
+    <li><a href="homepage">homepage</a> 4</li>
+    
+    
+    <li><a href="life">life</a> 12</li>
+    
+    
+    <li><a href="%E5%8F%A4%E5%85%B8">古典</a> 2</li>
+    
+    
+    <li><a href="%E5%A4%A7%E7%9B%B8%E6%92%B2">大相撲</a> 3</li>
+    
+    
+    <li><a href="%E6%B0%97%E8%B1%A1">気象</a> 1</li>
+    
+    
+    <li><a href="%E9%9F%93%E3%83%89%E3%83%A9">韓ドラ</a> 1</li>
+    
+  </ul>
 
 </div>
 
