@@ -14,7 +14,7 @@ Graduate School of Science,
 The University of Tokyo](http://www.eps.s.u-tokyo.ac.jp/index-en.html)
 
  - Bio
-   -  東京都立 日比谷高等学校 普通科 修了 (2014.3.)
+   -  都立 日比谷高校 卒業 (2014.3.)
    - B.S. Department of Earth and Planetary Physics, School of Science, The University of Tokyo, (2019.3.)
    - A scholarship student of [Yoshida Scholarship Foundation - Master 21 Program](https://www.ysf.or.jp/englishpage/index.html) (2019.4-)
    - A course member of [International Graduate Program for Excellence in Earth-Space Science (IGPEES)](https://igpees79.webnode.jp/#) (2019.10-)
@@ -34,7 +34,6 @@ The University of Tokyo](http://www.eps.s.u-tokyo.ac.jp/index-en.html)
 
 - Research Interests
   - Cloud Physics
-  - Statistical Physics
   - Tropical Atmosphere
 
 ![私](/images/site-image.jpeg)
