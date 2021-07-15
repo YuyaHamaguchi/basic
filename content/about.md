@@ -8,7 +8,7 @@ draft: false
 
 - Affiliation
   - [Atmosphere and Ocean Research Institute](http://www.aori.u-tokyo.ac.jp), The University of Tokyo
-      - 2nd year master's student of [Takayabu Laboratory](https://ccsr.aori.u-tokyo.ac.jp/~takayabu/index-j.html)
+      - 1st year docter's student of [Takayabu Laboratory](https://ccsr.aori.u-tokyo.ac.jp/~takayabu/index-j.html)
   - [Department of Earth and Planetary Science,
 Graduate School of Science,
 The University of Tokyo](http://www.eps.s.u-tokyo.ac.jp/index-en.html)
