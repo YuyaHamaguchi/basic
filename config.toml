@@ -9,10 +9,6 @@ canonifyurls = true
 paginate = 10
 publishDir="docs"
 
-#[indexes]
-#  tag = "startup,Julia"
-#  topic = "スタートアップ,Juliaに関わる内容を書きます"
-
 [params]
   # Shown in the home page
   subtitle = "気ままに書きます。"
@@ -33,7 +29,9 @@ publishDir="docs"
   #[params.piwikAnalytics]
   #  siteid = 2
   #  piwikroot = "//analytics.example.com/"
-#[taxonomies]
+
+  #[taxonomies]
+  
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
