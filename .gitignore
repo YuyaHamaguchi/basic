@@ -3,3 +3,4 @@ themes
 resources
 backup/
 .hugo_build.lock
+.DS_Store
