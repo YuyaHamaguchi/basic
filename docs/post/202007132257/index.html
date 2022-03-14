@@ -5,7 +5,7 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="HPを綺麗に！">
-  <meta name="generator" content="Hugo 0.82.1" />
+  <meta name="generator" content="Hugo 0.94.2" />
 
   <title>見やすいHPづくり &middot; Yuh&#39;s note.</title>
 
@@ -32,31 +32,28 @@
   <link rel="stylesheet" href="https://yuyahamaguchi.github.io/basic/css/blackburn.css">
 
   
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 
   
-  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet" type="text/css">
 
   
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-  
-  
-  <link rel="canonical" href="" />
+  <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
  
   
 
   
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/androidstudio.min.css">
-  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/styles/androidstudio.min.css">
+  <script async src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/highlight.min.js"></script>
   
-  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/yaml.min.js"></script>
+  <script async src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/languages/yaml.min.js"></script>
   
   <script>hljs.initHighlightingOnLoad();</script>
   
 
   <link rel="shortcut icon" href="https://yuyahamaguchi.github.io/basic/img/favicon.ico" type="image/x-icon" />
-
 
   
   
@@ -104,8 +101,6 @@
 
   <div class="pure-menu social">
   <ul class="pure-menu-list">
-
-    
 
     
 
@@ -224,18 +219,6 @@
   
   
   <div>
-    <i class="fa fa-folder fa-fw"></i>
-    
-      <a class="post-taxonomy-topic" href="https://yuyahamaguchi.github.io/basic/categories/%E6%B0%97%E3%81%BE%E3%81%BE%E6%97%A5%E8%A8%98">気まま日記</a>
-    
-  </div>
-  
-  
-
-  
-  
-  
-  <div>
     <i class="fa fa-tags fa-fw"></i>
     
       <a class="post-taxonomy-tag" href="https://yuyahamaguchi.github.io/basic/tags/life">life</a>&nbsp;&#47;
@@ -248,19 +231,52 @@
 
 </div>
 
-
   <h4 id="categorytag付けの実装">Category・Tag付けの実装。</h4>
 <p>2日目です。本日はYuh&rsquo;s noteをより見やすくしようと思い, 各投稿に対してカテゴリ・タグ付けを行うように設定しました。カテゴリもタグも種類がまだまだ少ないですが, 雑多な投稿をしても後々クラスタリングしやすいように, 早めの実装です。とはいえ気分屋なので適当なタグ名をその都度つけてしまいそうです。。気をつけよう。</p>
 <p>例えば初投稿や今回の投稿内容は日記的側面が大きいので「気まま日記」というカテゴリに, タグには日常の由無し事を書いたものとして「life」, またHPの開設に当たって作業したことがメインコンテンツなので「homepage」をつけました。今後, 研究に関する思考の履歴や技術的なノウハウの備忘録を記すことがあればコンテンツがずっと多様になりそうですね。研究でいえば「Tropical Meteorology」や「Cloud Organization」, 「Weather and Climate Models」とか書けていけたらいいな, と思います。オープンに書けることだけでしょうが。技術的なところだと「Fortran」, 「Julia」, をはじめとして「衛星データ解析」や３次元描画のHow toを書けるようになりたいですね。まだまだ初心者なので気の利いた記事が書けるのはいつになるやら。</p>
 <hr>
 <p>今週は日米共同のOnline学会Weekなので朝からモニターと睨めっこです。自分の発表コンテンツは果たしてどれくらい閲覧されているのか, 気になりますが確認のしようがないのでムズムズします。オンラインだと臨場感が欠ける半面, オフラインよりもひとつひとつのポスターの内容に集中して精読できる点が嬉しいです。
 発表者に気を使いながら背景知識を持たない内容のポスターを読むことは現地ではなかなか結実しません。一方オンラインであれば, 参考文献をその場で読み流し知らない単語を調べ発表者の意図を汲み取る時間が十分に与えられます。自分の関連分野であればその必要はないかもしれませんが, 遠い分野の話をよりよく理解できるという点では充実度が高いですね。</p>
-<p>今日も同期のポスター発表をまじまじと見てひとつ勉強できました。キーワードは海洋前線と傾圧擾乱(→ストームトラック, BAM), $\overline{u&rsquo;v'}$によるEKE→MKE ConversionとそれによるPFJの蛇行(→SAM), ですね。自分用の備忘録であって詳細は書きません。まだunder reviewのようですし。僕も早く一本目を通したいですね, ファイト〜。</p>
+<p>今日も同期のポスター発表をまじまじと見てひとつ勉強できました。キーワードは海洋前線と傾圧擾乱(→ストームトラック, BAM), $\overline{u&rsquo;v&rsquo;}$によるEKE→MKE ConversionとそれによるPFJの蛇行(→SAM), ですね。自分用の備忘録であって詳細は書きません。まだunder reviewのようですし。僕も早く一本目を通したいですね, ファイト〜。</p>
   
-  
+  <h4><i class="fas fa-share-alt" aria-hidden="true"></i>&nbsp;Share!</h4>
+<ul class="share-buttons">
+	<li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fyuyahamaguchi.github.io%2fbasic%2fpost%2f202007132257%2f" target="_blank" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span class="sr-only">Share on Facebook</span></a>
+	</li>&nbsp;&nbsp;&nbsp;
+	<li><a href="https://twitter.com/intent/tweet?source=https%3a%2f%2fyuyahamaguchi.github.io%2fbasic%2fpost%2f202007132257%2f" target="_blank" title="Tweet"><i class="fab fa-twitter" aria-hidden="true"></i><span class="sr-only">Tweet</span></a>
+	</li>&nbsp;&nbsp;&nbsp;
+	<li><a href="https://plus.google.com/share?url=https%3a%2f%2fyuyahamaguchi.github.io%2fbasic%2fpost%2f202007132257%2f" target="_blank" title="Share on Google+"><i class="fab fa-google-plus" aria-hidden="true"></i><span class="sr-only">Share on Google+</span></a>
+	</li>&nbsp;&nbsp;&nbsp;
+	<li><a href="http://www.tumblr.com/share?v=3&u=https%3a%2f%2fyuyahamaguchi.github.io%2fbasic%2fpost%2f202007132257%2f" target="_blank" title="Post to Tumblr"><i class="fab fa-tumblr" aria-hidden="true"></i><span class="sr-only">Post to Tumblr</span></a>
+	</li>&nbsp;&nbsp;&nbsp;
+	<li><a href="http://pinterest.com/pin/create/button/?url=https%3a%2f%2fyuyahamaguchi.github.io%2fbasic%2fpost%2f202007132257%2f" target="_blank" title="Pin it"><i class="fab fa-pinterest-p" aria-hidden="true"></i><span class="sr-only">Pin it</span></a>
+	</li>&nbsp;&nbsp;&nbsp;
+	<li><a href="http://www.reddit.com/submit?url=https%3a%2f%2fyuyahamaguchi.github.io%2fbasic%2fpost%2f202007132257%2f" target="_blank" title="Submit to Reddit"><i class="fab fa-reddit-alien" aria-hidden="true"></i><span class="sr-only">Submit to Reddit</span></a>
+	</li>
+</ul>
 
 
+<style>
+	ul.share-buttons{
+	  list-style: none;
+	  padding: 0;
+	}
 
+	ul.share-buttons li{
+	  display: inline;
+	}
+
+	ul.share-buttons .sr-only{
+	  position: absolute;
+	  clip: rect(1px 1px 1px 1px);
+	  clip: rect(1px, 1px, 1px, 1px);
+	  padding: 0;
+	  border: 0;
+	  height: 1px;
+	  width: 1px;
+	  overflow: hidden;
+	}
+</style>
 
 
   
@@ -289,7 +305,9 @@
 </div>
 
 
-
+  
+  
+  
   
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -310,6 +328,8 @@
 <a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
 
+  
+
 </div>
 
 </div>
@@ -318,16 +338,18 @@
 <script src="https://yuyahamaguchi.github.io/basic/js/menus.js"></script>
 
 
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172422146-1"></script>
 <script>
   
   if (window.location.hostname != "localhost") {
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-172422146-1', 'auto');
-    ga('send', 'pageview');
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-172422146-1');
   }
 </script>
 
@@ -336,12 +358,9 @@
 
 
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-</script>
-
-
+<script src="https://yuyahamaguchi.github.io/basic/js/math-code.js"></script>
+  <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+  
 
 
 </body>
